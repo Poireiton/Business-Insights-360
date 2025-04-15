@@ -2,6 +2,7 @@
 # Business Insights 360
 
 ## Power BI Project for AtliQ Hardware
+
 [LinkedIn Post](www.linkedin.com/in/poireiton-loukrakpam-23a666141)
 
 [Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNDUwZDY3YjAtN2UxMy00NDAwLThkZmMtN2UzZmExMDgwYTNjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
